@@ -1,5 +1,6 @@
-# Ignore PDF data and Chroma DB storage
-data/
+# Ignore PDF files in data folder but keep the folder structure
+data/*
+!data/.gitkeep
 chroma/
 .chainlit/
 .files/
