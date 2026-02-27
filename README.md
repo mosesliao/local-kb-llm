@@ -50,7 +50,7 @@ python ingest.py
 python app.py
 ```
 
-## Future todo list:
+## Future todo list
 
 1. Get `ingest.py` to ingest other folders in the PC.
 2. Possible features to ingest data from your dropbox or other cloud storage (You can suggest😎)
