@@ -1,0 +1,6 @@
+# Ignore PDF data and Chroma DB storage
+data/
+chroma/
+.chainlit/
+.files/
+__pycache__/

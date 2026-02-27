@@ -1,0 +1,3 @@
+data/*.pdf
+docs/*.pdf
+pdfs/*.pdf
